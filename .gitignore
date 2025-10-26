@@ -1,0 +1,25 @@
+# Game state and temporary files
+logfile
+paniclog
+record
+*.bak
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Windows specific
+*.exe.config
+*.stackdump
+
+# Game-specific temporary files
+bones/
+saves/
